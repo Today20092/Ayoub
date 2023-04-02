@@ -1,4 +1,15 @@
 baseURL: "https://Today20092.github.io"
 languageCode: en-us
-title: Ayoub Abedrabbo 
+title: Ayoub's Website 
 theme: hugo-book
+BookTheme: "auto"
+
+menu:
+  # before: []
+  after:
+    - name: "@AyoubAbedrabbo : Instagram"
+      url: "https://www.instagram.com/ayoubabedrabbo/"
+      weight: -10
+    - name: "@Telegram : AyoubAb1"
+      url: "https://AyoubAb1.t.me"
+      weight: -20

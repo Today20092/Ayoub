@@ -1,9 +1,8 @@
 ---
-title: INDEX PAGE
+title: Main
 type: docs
 ---
-
-# This is the first heading of the index page
+# Welcome to my website
 
 {{< columns >}}
 ## Welcome to the left colum
@@ -21,8 +20,6 @@ Right text
 ## Middle?
 
 let us add some markdown here
-### third heading
-welcome to my site
 
 
 ## another section
